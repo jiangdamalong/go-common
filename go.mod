@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/garyburd/redigo v1.6.0
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/jiangdamalong/common v0.0.0-20230227044706-a732e9493eba
+	github.com/jiangdamalong/common v1.0.0
 	go.etcd.io/etcd v3.3.22+incompatible
 )
 
