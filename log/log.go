@@ -2,7 +2,7 @@ package log
 
 import (
 	"fmt"
-	cpplog "github.com/jiangdamalong/common"
+	cpplog "github.com/jiangdamalong/common/log"
 	"time"
 )
 
