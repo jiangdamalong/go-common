@@ -1,0 +1,14 @@
+build/
+.vs/
+.vscode/
+
+*.o
+*.obj
+*.swp
+*.pb.h
+*.pb.cc
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.suo
